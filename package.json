@@ -1,0 +1,19 @@
+{
+  "name": "eth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manali chahande",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.2",
+    "mongodb": "^4.2.2",
+    "mongoose": "^6.1.2",
+    "web3": "^1.6.1"
+  }
+}
